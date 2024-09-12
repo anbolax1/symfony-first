@@ -1,5 +1,6 @@
 .idea
 .env
+docker/.env
 
 ###> symfony/framework-bundle ###
 /.env.local
@@ -19,4 +20,5 @@
 ###> phpunit/phpunit ###
 /phpunit.xml
 .phpunit.result.cache
+phpunit.xml
 ###< phpunit/phpunit ###
